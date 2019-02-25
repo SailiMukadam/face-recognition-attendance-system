@@ -11,8 +11,6 @@ pip install pysqlite
 
 
 
-To run, use command line 'python ui.py'
-* Initailly train the system using option 1 (Mark the attendance).
 
 The face detection and recognition part is explained in detail [here](https://github.com/amaljoseph/python-opencv-face-recognition)
 
